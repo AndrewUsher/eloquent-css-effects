@@ -15,7 +15,7 @@ div {
 }
 
 div:before {
-  content: "";
+  content: '';
   display: block;
   margin: auto;
   width: 0.75em;

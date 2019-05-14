@@ -9,7 +9,7 @@ span {
 }
 
 span::before {
-  content: "";
+  content: '';
   position: absolute;
   z-index: -1;
   top: 0;

@@ -9,7 +9,7 @@ span {
 
 span::before,
 span::after {
-  content: "";
+  content: '';
   position: absolute;
   left: 0;
   right: 0;

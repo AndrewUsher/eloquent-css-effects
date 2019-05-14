@@ -16,7 +16,7 @@ button {
 }
 
 button::before {
-  content: "";
+  content: '';
   z-index: -1;
   position: absolute;
   top: 0;

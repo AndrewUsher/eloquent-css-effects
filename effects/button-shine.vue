@@ -17,7 +17,7 @@ button {
 }
 
 button::after {
-  content: "";
+  content: '';
   z-index: -1;
   background-color: hsla(0, 0%, 100%, 0.2);
   position: absolute;

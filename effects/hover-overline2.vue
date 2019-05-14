@@ -8,7 +8,7 @@ span {
 }
 
 span::before {
-  content: "";
+  content: '';
   position: absolute;
   top: -2px;
   left: 50%;
